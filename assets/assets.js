@@ -83,27 +83,32 @@ export const workData = [
         bgImage: '/work-1.png',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Ecommerce',
+        description: 'Ecommerce Application',
         bgImage: '/work-2.png',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
-        bgImage: '/work-3.png',
+        title: 'Ecommerce',
+        description: 'Ecommerce Application',
+        bgImage: '/work-2.png',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
-        bgImage: '/work-4.png',
+        title: 'Ecommerce',
+        description: 'Ecommerce Application',
+        bgImage: '/work-2.png',
     },
+    
+   
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'Advanced Virtual Assistant ', description: 'The Jeetu 2.0 is a cutting-edge AI-powered assistant built using React and the Gemini API for seamless interactions.', link: '' },
+    { icon: assets.mobile_icon, title: 'Ecommerce websites', description: 'Custom E-Commerce Platform: Built a fully responsive e-commerce website using Next.js, Tailwind CSS, and Stripe for secure payments, featuring dynamic product listings and user authentication.', link: '' },
+    { icon: assets.ui_icon, title: 'University Management System', description: 'Our University Management System offers a seamless platform for admins to register users, assign unique IDs and passwords to teachers and students', link: 'https://universitymanagement-theta.vercel.app/' },
+
+    { icon: assets.graphics_icon, title: 'Medicine Reminder on Whatsapp with twilio', description: 'automated medicine reminder system using Twilios WhatsApp API to send scheduled medication alerts.'
+        , link: '' 
+        },
 ]
 
 export const infoList = [
